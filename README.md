@@ -16,5 +16,5 @@
 - split_into_utterances_script.py : Script to get each utterance in a clip
 - extract_modalities_embeddings.ipynb: File to extract the 3 modalities audio, video and text.
 - FinalTrainandEval.ipynb: Contains the Transformer the training and evaluation
-- NLPPresentation.ppx 
+- NLPPresentation.pdf
 ---
